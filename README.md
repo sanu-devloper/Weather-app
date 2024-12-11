@@ -2,4 +2,4 @@
 I developed this websites  using javascript
 <br>
 
-Author:-sanu kumar
+Author:-sanu kuma
